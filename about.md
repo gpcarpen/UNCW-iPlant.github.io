@@ -20,6 +20,5 @@ information, break these parts down into accessible, step-by-step walkthroughs, 
 
 For iPlant users who want to get started learning, [click here.](http://uncw-iplant.github.io/iplant/intro/2015/03/22/intro-to-iPlant.html)
 
-
 For Stapleton Lab volunteers, DIS students, or Honors Project students, start here:
 (coming soon)
