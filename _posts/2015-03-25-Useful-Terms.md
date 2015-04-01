@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Generally Useful Terms"
-date:   2015-03-22 00:14:00
+date:   2015-03-25 00:14:00
 categories: iPlant terms
 ---
 
